@@ -52,14 +52,39 @@ Andy Puddicombe and Rich Pierson
 
 ## Each of these technologies are referred to in a single article. Citation is located at the end of the last paragraph of this section. 
 
-**Amazon Kinesis Data Stream** – “The user generates events by performing actions inside the app, and these events are forwarded to Kinesis to be processed by Spark Structured Streaming, another Amazon service that helps process large amounts of data. 
-* Spark Structured Streaming * uses micro-batching to break up the stream of events into discrete chunks, processing incoming events in small micro-batch dataframes. 
+**Amazon Kinesis Data Stream** – “The user generates events by performing actions inside the app, and these events are forwarded to Kinesis to be processed by **Spark Structured Streaming**, another Amazon service that helps process large amounts of data. 
+**Spark Structured Streaming** uses micro-batching to break up the stream of events into discrete chunks, processing incoming events in small micro-batch dataframes. 
 
-Spark Structured Streaming processes this data and feeds into ML models developed using *Databricks* notebooks and evaluated with MLflow experiments offline. 
+Spark Structured Streaming processes this data and feeds into ML models developed using **Databricks** notebooks and evaluated with MLflow experiments offline. 
 
-Once the model has been created, a Github release is created, picked up by the Circle CI CI/CD tools that test and build MLflow model images.
+Once the model has been created, a Github release is created, picked up by the **Circle CI** CI/CD tools that test and build MLflow model images.
 
-This is pushed to *Amazon’s AWS ECR*, a container registry, and then deployed onto *Amazon’s Sagemaker,* an integrated development environment that gives developers the ability to build, train, and deploy ML models at scale. 
+This is pushed to **Amazon’s AWS ECR**, a container registry, and then deployed onto **Amazon’s Sagemaker**, an integrated development environment that gives developers the ability to build, train, and deploy ML models at scale. 
 
 
-Headspace uses Blue-Green architecture to update its ML models without interrupting its services. It does so by maintaining two parallel infrastructures. Headspace uses Amazon’s serverless compute service *Lamba* to reroute any incoming features and predictions to one of the production environments while working to update the parallel environment with new features. Once this update has been complete, the development team switches the Lambda towards this updated environment, allowing for a seamless transition between the old environment and the newly updated one.  
+Headspace uses Blue-Green architecture to update its ML models without interrupting its services. It does so by maintaining two parallel infrastructures. Headspace uses Amazon’s serverless compute service **Lamba** to reroute any incoming features and predictions to one of the production environments while working to update the parallel environment with new features. Once this update has been complete, the development team switches the Lambda towards this updated environment, allowing for a seamless transition between the old environment and the newly updated one.  
+
+---
+
+## Landscape
+**What field is the company in?**
+
+Headspace operates within the mental health and wellness field. 
+
+
+**What have been the major trends and innovations over the last 5-10 years?**
+
+The field of mental health and wellness has expanded to encompass six different categories: Better Health, Better Fitness, Better Nutrition, Better Appearance, Better Sleep, and Better Mindfulness. Headspace falls into three of these categories, based on their original core competency, and those acquired through their acquisitions, those field being Better Health, Better Sleep, and Better Mindfulness.  
+
+**Better Health**: In this “traditional category” for wellness, the field of Better Health has seen an increase in the desire and use of personal health-trackers, monitoring their own health and potential symptoms through wearable devices. Included as well are companies focusing more on data-driven care, allowing them to target specific symptoms and prescribe medication or forms of therapy that are more in-line with the need of the patient. On the administrative side, new apps are making it easier to book medical appointments and obtain any prescriptions that a patient may need. 
+
+**Better Fitness**: In this subfield, a rise in companies offering robust and accessible forms of exercise such as Peloton, Mirror, and Tonal, occurred during the COVID-19 pandemic. Peloton, for instance, developed Peloton Guide, an AI-enabled device that tracks the exerciser’s movements, compares the movements of the user with that shown by the instructor, allowing them adjust their movements to be more in line with the instructor, as well as showing the user what muscle groups have been exercised or not to make sure the user is gaining a well rounded training experience.   
+
+
+**Better Nutrition**: The nutritional subfield gained momentum during COVID-19 with the rise of global meal kit delivery services such as Blue Apron and Hello Fresh. The Nutrition app market, with companies like MyFitnessPal and MyNetDiary, have a CAGR of 17.2%, as individuals are becoming more health conscious due to rising obesity and heart disease rates among the population.   
+
+**Better Sleep**: Worldwide, individuals are investing in sleep-monitoring devices and applications as a lower-cost means to address the rising prevalence of sleep disorders. Companies such as Sleep Cycle, Pillow, Calm, and even Headspace, are offering solutions to address this increase in sleep difficulties, whether it be in wearable devices that through sensors track quality of sleep, or online courses that help relax the body and lower stress levels before one hits the pillow. The market has a CAGR of 14.4%, forecasted from 2024 to 2031.  
+
+
+
+**Better Mindfulness**: Increased market competition has led companies in this sector to invest more money into acquiring AI-driven companies as a means of finding the most effective way to offer their mindfulness products that are tailored to the individual user. This sector has also seen acquisitions and mergers with companies in the general mental wellness market, expanding their product offerings to include digital care coordination, condition management, and sleep tracking. This market has a CAGR of 15.2% when forecasted from 2024 to 2031.   
