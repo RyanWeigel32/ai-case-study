@@ -38,7 +38,7 @@ Andy Puddicombe and Rich Pierson<sup>2</sup>
 
  Headspace’s intended customer base is anyone seeking accessible mental health support regardless of what demographic they fall into.<sup>5</sup>
 
- There were 311 million health app users in 2023, and within the mental health app market, its estimated market size was set at $6.2 billion (US).<sup>6</sup>,<sup>7</sup>
+ There were 311 million health app users in 2023, and within the mental health app market, its estimated market size was set at $6.2 billion (US).<sup>6</sup>`<sup>7</sup>
 
 
 
