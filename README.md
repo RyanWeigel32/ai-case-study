@@ -49,11 +49,14 @@ Andy Puddicombe and Rich Pierson<sup>2</sup>
 > “Amidst a rapidly growing landscape of mental health and wellness apps, Sayana has developed a uniquely engaging member experience backed by world-class AI and machine learning algorithms.”<sup>9</sup>
   
 
- The second acquisition was Alpine.AI, a company in the digital assistant market. Headspace Health’s plan is to leverage “Alpine’s machine learning capabilities” “to give people an interactive voice-based way to discover different meditation sessions…and to use those interactions to make better suggestions to individual users.” 
+ The second acquisition was Alpine.AI, a company in the digital assistant market. Headspace Health’s plan is to leverage “Alpine’s machine learning capabilities” “to give people an interactive voice-based way to discover different meditation sessions…and to use those interactions to make better suggestions to individual users.”<sup>10</sup>
 
- Headspace also merged with Ginger.io to create Headspace Health.  Ginger.io, when standalone, was a “mobile app that enables users to chat with professional coaches and therapists.” Ginger.io did so by tracking through the app data pertaining to the behaviors of the user, and by building statistical patterns based on this received data through the use of machine learning and AI, the app would be able to find deviations from normal patterns of behavior and send messages to the user, as well as alert the coach or therapist to check in and intervene. 
+
+ Headspace also merged with Ginger.io to create Headspace Health.  Ginger.io, when standalone, was a “mobile app that enables users to chat with professional coaches and therapists.” Ginger.io did so by tracking through the app data pertaining to the behaviors of the user, and by building statistical patterns based on this received data through the use of machine learning and AI, the app would be able to find deviations from normal patterns of behavior and send messages to the user, as well as alert the coach or therapist to check in and intervene.<sup>11</sup>
+
  
- With these two acquisitions, and one merger, Headspace (now Headspace Health) has expanded its customer base beyond those who are seeking only an entry into the practice of mindfulness, and into a market for individuals searching for a more diverse array of potential solutions for mental health difficulties. By offering up different mental health practices, utilizing the power of machine learning to tailor products and courses that meet the specific need of the individual, while also retaining adjacent to these services its core business in helping individuals learn mindfulness meditation, it has the advantage of attracting individuals who are on the fence about their core business, but are looking for solutions and practices that help in addressing their very real mental health difficulties. 
+ With these two acquisitions, and one merger, Headspace (now Headspace Health) has expanded its customer base beyond those who are seeking only an entry into the practice of mindfulness, and into a market for individuals searching for a more diverse array of potential solutions for mental health difficulties. By offering up different mental health practices, utilizing the power of machine learning to tailor products and courses that meet the specific need of the individual, while also retaining adjacent to these services its core business in helping individuals learn mindfulness meditation, it has the advantage of attracting individuals who are on the fence about their core business, but are looking for solutions and practices that help in addressing their very real mental health difficulties.<sup>12</sup>
+
 
 ---
 
@@ -71,7 +74,8 @@ Once the model has been created, a Github release is created, picked up by the *
 This is pushed to **Amazon’s AWS ECR**, a container registry, and then deployed onto **Amazon’s Sagemaker**, an integrated development environment that gives developers the ability to build, train, and deploy ML models at scale. 
 
 
-Headspace uses Blue-Green architecture to update its ML models without interrupting its services. It does so by maintaining two parallel infrastructures. Headspace uses Amazon’s serverless compute service **Lamba** to reroute any incoming features and predictions to one of the production environments while working to update the parallel environment with new features. Once this update has been complete, the development team switches the Lambda towards this updated environment, allowing for a seamless transition between the old environment and the newly updated one.  
+Headspace uses Blue-Green architecture to update its ML models without interrupting its services. It does so by maintaining two parallel infrastructures. Headspace uses Amazon’s serverless compute service **Lamba** to reroute any incoming features and predictions to one of the production environments while working to update the parallel environment with new features. Once this update has been complete, the development team switches the Lambda towards this updated environment, allowing for a seamless transition between the old environment and the newly updated one.<sup>13</sup>
+ 
 
 ---
 
@@ -79,41 +83,51 @@ Headspace uses Blue-Green architecture to update its ML models without interrupt
 
 **What field is the company in?**
 
-Headspace operates within the mental health and wellness field. 
+Headspace operates within the mental health and wellness field.<sup>14</sup>
+
 
 
 **What have been the major trends and innovations over the last 5-10 years?**
 
-The field of mental health and wellness has expanded to encompass six different categories:**Better Health, Better Fitness, Better Nutrition, Better Appearance, Better Sleep, and Better Mindfulness**. Headspace falls into three of these categories, based on their original core competency, and those acquired through their acquisitions, those field being Better Health, Better Sleep, and Better Mindfulness.  
+The field of mental health and wellness has expanded to encompass six different categories:**Better Health, Better Fitness, Better Nutrition, Better Appearance, Better Sleep, and Better Mindfulness**. Headspace falls into three of these categories, based on their original core competency, and those acquired through their acquisitions, those field being Better Health, Better Sleep, and Better Mindfulness.<sup>15</sup>
+
 
 **Better Health**
 
-In this “traditional category” for wellness, the field of Better Health has seen an increase in the desire and use of personal health-trackers, monitoring their own health and potential symptoms through wearable devices. Included as well are companies focusing more on data-driven care, allowing them to target specific symptoms and prescribe medication or forms of therapy that are more in-line with the need of the patient. On the administrative side, new apps are making it easier to book medical appointments and obtain any prescriptions that a patient may need. 
+In this “traditional category” for wellness, the field of Better Health has seen an increase in the desire and use of personal health-trackers, monitoring their own health and potential symptoms through wearable devices. Included as well are companies focusing more on data-driven care, allowing them to target specific symptoms and prescribe medication or forms of therapy that are more in-line with the need of the patient. On the administrative side, new apps are making it easier to book medical appointments and obtain any prescriptions that a patient may need.<sup>16</sup>
+
 
 **Better Fitness**
 
-In this subfield, a rise in companies offering robust and accessible forms of exercise such as Peloton, Mirror, and Tonal, occurred during the COVID-19 pandemic. Peloton, for instance, developed Peloton Guide, an AI-enabled device that tracks the exerciser’s movements, compares the movements of the user with that shown by the instructor, allowing them adjust their movements to be more in line with the instructor, as well as showing the user what muscle groups have been exercised or not to make sure the user is gaining a well rounded training experience.   
+In this subfield, a rise in companies offering robust and accessible forms of exercise such as Peloton, Mirror, and Tonal, occurred during the COVID-19 pandemic. Peloton, for instance, developed Peloton Guide, an AI-enabled device that tracks the exerciser’s movements, compares the movements of the user with that shown by the instructor, allowing them adjust their movements to be more in line with the instructor, as well as showing the user what muscle groups have been exercised or not to make sure the user is gaining a well rounded training experience.<sup>17</sup>`<sup>18</sup>
+
+  
 
 
 **Better Nutrition** 
 
-The nutritional subfield gained momentum during COVID-19 with the rise of global meal kit delivery services such as Blue Apron and Hello Fresh. The Nutrition app market, with companies like MyFitnessPal and MyNetDiary, have a CAGR of 17.2%, as individuals are becoming more health conscious due to rising obesity and heart disease rates among the population.   
+The nutritional subfield gained momentum during COVID-19 with the rise of global meal kit delivery services such as Blue Apron and Hello Fresh. The Nutrition app market, with companies like MyFitnessPal and MyNetDiary, have a CAGR of 17.2%, as individuals are becoming more health conscious due to rising obesity and heart disease rates among the population.<sup>19</sup>`<sup>20</sup>
+
+
 
 **Better Sleep**
 
-Worldwide, individuals are investing in sleep-monitoring devices and applications as a lower-cost means to address the rising prevalence of sleep disorders. Companies such as Sleep Cycle, Pillow, Calm, and even Headspace, are offering solutions to address this increase in sleep difficulties, whether it be in wearable devices that through sensors track quality of sleep, or online courses that help relax the body and lower stress levels before one hits the pillow. The market has a CAGR of 14.4%, forecasted from 2024 to 2031.  
+Worldwide, individuals are investing in sleep-monitoring devices and applications as a lower-cost means to address the rising prevalence of sleep disorders. Companies such as Sleep Cycle, Pillow, Calm, and even Headspace, are offering solutions to address this increase in sleep difficulties, whether it be in wearable devices that through sensors track quality of sleep, or online courses that help relax the body and lower stress levels before one hits the pillow. The market has a CAGR of 14.4%, forecasted from 2024 to 2031.<sup>21</sup>
+ 
 
 
 
 **Better Mindfulness**
 
-Increased market competition has led companies in this sector to invest more money into acquiring AI-driven companies as a means of finding the most effective way to offer their mindfulness products that are tailored to the individual user. This sector has also seen acquisitions and mergers with companies in the general mental wellness market, expanding their product offerings to include digital care coordination, condition management, and sleep tracking. This market has a CAGR of 15.2% when forecasted from 2024 to 2031.   
+Increased market competition has led companies in this sector to invest more money into acquiring AI-driven companies as a means of finding the most effective way to offer their mindfulness products that are tailored to the individual user. This sector has also seen acquisitions and mergers with companies in the general mental wellness market, expanding their product offerings to include digital care coordination, condition management, and sleep tracking. This market has a CAGR of 15.2% when forecasted from 2024 to 2031.<sup>22</sup>`<sup>23</sup>
+
+
 
 ---
 
 **What are the other major companies in this field?**
 
-It is very difficult to place Headspace within a strictly delineated market as “mental health and wellness companies are considering how to play across the health and wellness categories and channels.”  The market is highly fragmented  and no single company is predominant amongst its competitors. Evidenced by the relatively recent expansions of Headspace into the virtual healthcare field with its merging with Ginger.io in 2021 and its acquisition of Sayana in 2022, Headspace Health is indeed attempting to blur those lines. Yet, its core competency is still prevalent, that being an app that offers a robust catalogue of mindfulness meditations courses. Its direct competitors  within the field of this core competency are: 
+It is very difficult to place Headspace within a strictly delineated market as “mental health and wellness companies are considering how to play across the health and wellness categories and channels.”<sup>24</sup>The market is highly fragmented<sup>25</sup>and no single company is predominant amongst its competitors. Evidenced by the relatively recent expansions of Headspace into the virtual healthcare field with its merging with Ginger.io in 2021 and its acquisition of Sayana in 2022, Headspace Health is indeed attempting to blur those lines. Yet, its core competency is still prevalent, that being an app that offers a robust catalogue of mindfulness meditations courses. Its direct competitors<sup>26</sup>within the field of this core competency are: 
 
 -	**Calm**
 -	**Fabulous**
