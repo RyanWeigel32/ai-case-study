@@ -147,4 +147,23 @@ One area within wellness that has grown considerably over the last few decades i
 
 The market for wearable devices and apps that track biometric data has grown considerably over the last decade. Companies within the mental health and wellness sector, regardless of their origin, have begun to incorporate this technology into their business. Headspace is already attempting to do so with its merger with Ginger.io and its acquisition of Sayana, both mentioned more in detail in one of the above sections. In the fitness sector, companies such as Peloton have taken advantage of the growing desire from individuals to improve their fitness with the help of expert instructors, without having to spend a significant amount of money to hire one privately. With the recent merger and acquisition trends of Headspace, the company is looking to broaden their product offerings, and in light of the growing research showing the correlation between physical exercise and robust mental health, it would not be too much of a jump to expand their product offerings to include both more fitness oriented classes, as well as the ability to integrate technologies that the consumer is already using (wearable devices) or are becoming more available and less expensive (computer vision-capable video cameras a la Peloton Guide.) By incorporating the recent technological trends occurring within the fitness industry, specifically the at-home segment of that market, Headspace expands their pool of potential customers, and exposes them to the other products they currently offer, without having to expend a substantial amount of resources moving into markets that share no relationship with their core business. 
 
+---
+
+**What technologies would this additional product or service utilize?**
+- **Heart Rate Sensors**
+- **Transformers**
+- **LSTM Networks**
+- **Computer Vision and CNNs**
+
+**Why are these technologies appropriate for your solution?**
+
+**Heart Rate Sensors** – The use of a sensor that utilizes Photoplethysmography by emitting a light against the skin to track blood flow changes that determine a user’s pulse. This is available on many wearable sensor products and can be integrated into the Headspace software to determine whether a signal should be sent to the user to deepen their inhale and exhale while breathing.  
+
+**Machine Learning and AI Technologies**
+
+**Transformers** – Transformers have been used to make recognition predictions based on gait patterns with success. The integration of transformers into computer vision would potentially increase the accuracy of detecting a user’s movements and providing too a more accurate live comparison with the technique of the online expert when engaging in physical exercise. 
+
+**LSTM Networks** – The ability to retain information for long periods is important when it comes to making accurate predictions. For Headspace, they would want their machine learning algorithms to accurately predict the movements of an individual so that that individual both in real time and after the session can see themselves how well they are doing or did in comparison to their instructor. The accumulation of biometric data pertaining to the individual user, built up over time, would help the algorithm, by supplying additive layers of information that could be cross-referenced for movement patterns that are peculiar to that individual. Even if the user is new, a databank of movement pattern information, whether from outside data sources or accumulated from within, would allow for a general level of accuracy even in the beginning, but over time, the accumulation of movement data within the app, and retained via a LSTM network, would lead to even greater accuracy of movement predictions.  
+
+**Computer Vision and CNNs** – The use of convolutional neural networks that filter inputs (images) captured by a video camera would be necessary if the individual doing the exercises is to see how accurate their physical movements are against that of the instructor. 
 
