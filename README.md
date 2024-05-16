@@ -176,112 +176,112 @@ The market for wearable devices and apps that track biometric data has grown con
 <sup>1</sup> Mindfulness and Meditation for the Masses. (2024, January 17). Retrieved from Startupsavant.com: - Headspace — Mindfulness and Meditation for the Masses (startupsavant.com)
 
   
-Mindfulness and Meditation for the Masses. (2024, January 17). Retrieved from Startupsavant.com: - Headspace — Mindfulness and Meditation for the Masses (startupsavant.com)
+<sup>3</sup> Mindfulness and Meditation for the Masses. (2024, January 17). Retrieved from Startupsavant.com: - Headspace — Mindfulness and Meditation for the Masses (startupsavant.com)
 
   
-Mindfulness and Meditation for the Masses. (2024, January 17). Retrieved from Startupsavant.com: - Headspace — Mindfulness and Meditation for the Masses (startupsavant.com)
+<sup>4</sup> Mindfulness and Meditation for the Masses. (2024, January 17). Retrieved from Startupsavant.com: - Headspace — Mindfulness and Meditation for the Masses (startupsavant.com)
 
   
-Insights, C. (2024). Headspace. New York: CBInsights.com.
+<sup>5</sup> Insights, C. (2024). Headspace. New York: CBInsights.com.
 
   
-Headspace. (n.d.). About Headspace. Retrieved from Headspace.com: https://www.headspace.com/about-us
+<sup>6</sup> Headspace. (n.d.). About Headspace. Retrieved from Headspace.com: https://www.headspace.com/about-us
 
 
   
-Wylie, L. (2024, March 26). Health APP Revenue and Usage Statistics(2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/health-app-market/
+<sup>7</sup> Wylie, L. (2024, March 26). Health APP Revenue and Usage Statistics(2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/health-app-market/
 
   
-Grandview Research. (2024). Mental Health App Apps Market Size, Share & Trends Analysis Report By Platform Type (Android, iOS), By Application Type (Depression & Anxiety Management, Stress Management), By Region, And Segment Forecasts, 2024 - 2030. . San Francisco: Grandview Research.
+<sup>8</sup>Grandview Research. (2024). Mental Health App Apps Market Size, Share & Trends Analysis Report By Platform Type (Android, iOS), By Application Type (Depression & Anxiety Management, Stress Management), By Region, And Segment Forecasts, 2024 - 2030. . San Francisco: Grandview Research.
 
   
-Wylie, L. (2024, March 26). Wellness App Revenue and Usage Statistics (2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/wellness-app-market/
+<sup>9</sup>Wylie, L. (2024, March 26). Wellness App Revenue and Usage Statistics (2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/wellness-app-market/
 
   
-Business Wire. (2022, January 12). Headspace Health Announces Acquisition of AI-Driven Mental health and Wellness Company, Sayana. Retrieved from Business Wire: https://www.businesswire.com/news/home/20220112005244/en/Headspace-Health-Announces-Acquisition-of-AI-Driven-Mental-Health-and-Wellness-
+<sup>10</sup>Business Wire. (2022, January 12). Headspace Health Announces Acquisition of AI-Driven Mental health and Wellness Company, Sayana. Retrieved from Business Wire: https://www.businesswire.com/news/home/20220112005244/en/Headspace-Health-Announces-Acquisition-of-AI-Driven-Mental-Health-and-Wellness-
 
 
 
 
 
  
-Sarah Perez, I. L. (2018, September 4). Meditation App Headspace bets on voice and AI with Alpine.AI acquisition. Retrieved from Tech Crunch: https://techcrunch.com/2018/09/04/meditation-app-headspace-bets-on-voice-and-a-i-with-alpine-ai-acquisition/
+<sup>11</sup>Sarah Perez, I. L. (2018, September 4). Meditation App Headspace bets on voice and AI with Alpine.AI acquisition. Retrieved from Tech Crunch: https://techcrunch.com/2018/09/04/meditation-app-headspace-bets-on-voice-and-a-i-with-alpine-ai-acquisition/
 
 
   
-(Alumni), D. (2018, April 9). Ginger.io: An app that monitors your mental health. Retrieved from Harvard Digital Innovation and Transformation - MBA Student Perspectives: https://d3.harvard.edu/platform-digit/submission/ginger-io-an-app-that-monitors-your-mental-health/
+<sup>12</sup>(Alumni), D. (2018, April 9). Ginger.io: An app that monitors your mental health. Retrieved from Harvard Digital Innovation and Transformation - MBA Student Perspectives: https://d3.harvard.edu/platform-digit/submission/ginger-io-an-app-that-monitors-your-mental-health/
 
   
-Stephanie Li, V. L. (2018). Calm: Calm Before the Storm. Retrieved from Ivey Business Review: https://www.iveybusinessreview.ca/magazine/articles/calm-before-storm
+<sup>13</sup>Stephanie Li, V. L. (2018). Calm: Calm Before the Storm. Retrieved from Ivey Business Review: https://www.iveybusinessreview.ca/magazine/articles/calm-before-storm
 
   
-Yu Chen, K. N. (2021, August 16). Real-Time Machine Learning at Headspace. Retrieved from Medium: https://headspace.medium.com/infrastructure-design-for-real-time-machine-learning-inference-e140793d6741
+<sup>14</sup>Yu Chen, K. N. (2021, August 16). Real-Time Machine Learning at Headspace. Retrieved from Medium: https://headspace.medium.com/infrastructure-design-for-real-time-machine-learning-inference-e140793d6741
 
   
-Grandview Research. (2024). Mental Health Apps Market Size, Share & Trends Analysis Report By Platform Type (Android, iOS), By Application Type (Depression & Anxiety Management, Stress Management), By Region, And Segment Forecasts, 2024 - 2030. San Francisco: Grandview Research. Retrieved from Grandview Research: 0
+<sup>15</sup>Grandview Research. (2024). Mental Health Apps Market Size, Share & Trends Analysis Report By Platform Type (Android, iOS), By Application Type (Depression & Anxiety Management, Stress Management), By Region, And Segment Forecasts, 2024 - 2030. San Francisco: Grandview Research. Retrieved from Grandview Research: 0
 
   
-Shaun Callaghan, M. L. (2021, April 8). Feeling good: The future of the $1.5 trillion wellness market. Retrieved from McKinsey: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/feeling-good-the-future-of-the-1-5-trillion-wellness-market
+<sup>16</sup>Shaun Callaghan, M. L. (2021, April 8). Feeling good: The future of the $1.5 trillion wellness market. Retrieved from McKinsey: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/feeling-good-the-future-of-the-1-5-trillion-wellness-market
 
   
-Shaun Callaghan, M. L. (2021, April 8). Feeling good: The future of the $1.5 trillion wellness market. Retrieved from McKinsey: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/feeling-good-the-future-of-the-1-5-trillion-wellness-market
+<sup>17</sup>Shaun Callaghan, M. L. (2021, April 8). Feeling good: The future of the $1.5 trillion wellness market. Retrieved from McKinsey: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/feeling-good-the-future-of-the-1-5-trillion-wellness-market
 
   
-Shaun Callaghan, M. L. (2021, April 8). Feeling good: The future of the $1.5 trillion wellness market. Retrieved from McKinsey: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/feeling-good-the-future-of-the-1-5-trillion-wellness-market
+<sup>18</sup>Shaun Callaghan, M. L. (2021, April 8). Feeling good: The future of the $1.5 trillion wellness market. Retrieved from McKinsey: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/feeling-good-the-future-of-the-1-5-trillion-wellness-market
 
   
-Peloton. (2021, November 9). Peloton Introduces Peloton Guide, First Connected Strength Product. Retrieved from Peloton: https://www.onepeloton.com/press/articles/peloton-guide-strength
+<sup>19</sup>Peloton. (2021, November 9). Peloton Introduces Peloton Guide, First Connected Strength Product. Retrieved from Peloton: https://www.onepeloton.com/press/articles/peloton-guide-strength
 
   
-Grandview Research. (2024). Diet And Nutrition Apps Market Size, Share & Trends Analysis Report By Platform (Android, iOS), By Service, By Deployment (Smartphones, Tablets), By Region, And Segment Forecasts, 2024 - 2030. San Francisco: Grandview Research.
+<sup>20</sup>Grandview Research. (2024). Diet And Nutrition Apps Market Size, Share & Trends Analysis Report By Platform (Android, iOS), By Service, By Deployment (Smartphones, Tablets), By Region, And Segment Forecasts, 2024 - 2030. San Francisco: Grandview Research.
 
   
-Research, G. (2024). Meal Kit Delivery Services Market Size, Share & Trends Analysis Report By Offering (Heat & Eat, Cook & Eat), By Service (Single, Multiple), By Platform (Online, Offline), Meal Type (Vegan, Vegetarian), By Region, And Segment Forecasts, 2023 - 2030. San Francisco: Grandview Research.
+<sup>21</sup>Research, G. (2024). Meal Kit Delivery Services Market Size, Share & Trends Analysis Report By Offering (Heat & Eat, Cook & Eat), By Service (Single, Multiple), By Platform (Online, Offline), Meal Type (Vegan, Vegetarian), By Region, And Segment Forecasts, 2023 - 2030. San Francisco: Grandview Research.
 
   
-Coherent Market Insights. (2024). Diet And Nutrition Apps Market Size, Share & Trends Analysis Report By Platform (Android, iOS), By Service, By Deployment (Smartphones, Tablets), By Region, And Segment Forecasts, 2024 - 2030. Burlingame: Coherent Market Insights.
+<sup>22</sup>Coherent Market Insights. (2024). Diet And Nutrition Apps Market Size, Share & Trends Analysis Report By Platform (Android, iOS), By Service, By Deployment (Smartphones, Tablets), By Region, And Segment Forecasts, 2024 - 2030. Burlingame: Coherent Market Insights.
 
   
-Olsen, E. (2022, October 18). Calm accounces clinical mental health offering. Retrieved from mobi health news : https://www.mobihealthnews.com/news/calm-announces-clinical-mental-health-offering
+<sup>23</sup>Olsen, E. (2022, October 18). Calm accounces clinical mental health offering. Retrieved from mobi health news : https://www.mobihealthnews.com/news/calm-announces-clinical-mental-health-offering
 
   
-Grandview Research. (2024). Mental Health Apps Market Size, Share & Trends Analysis Report By Platform Type (Android, iOS), By Application Type (Depression & Anxiety Management, Stress Management), By Region, And Segment Forecasts, 2024 - 2030. San Francisco: Grandview Research. Retrieved from Grandview Research: 0
+<sup>24</sup>Grandview Research. (2024). Mental Health Apps Market Size, Share & Trends Analysis Report By Platform Type (Android, iOS), By Application Type (Depression & Anxiety Management, Stress Management), By Region, And Segment Forecasts, 2024 - 2030. San Francisco: Grandview Research. Retrieved from Grandview Research: 0
 
   
-Shaun Callaghan, M. L. (2021, April 8). Feeling good: The future of the $1.5 trillion wellness market. Retrieved from McKinsey: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/feeling-good-the-future-of-the-1-5-trillion-wellness-market
+<sup>25</sup>Shaun Callaghan, M. L. (2021, April 8). Feeling good: The future of the $1.5 trillion wellness market. Retrieved from McKinsey: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/feeling-good-the-future-of-the-1-5-trillion-wellness-market
 
   
-Mordor Intelligence. (2024). Mental Health Apps Market Size & Share Analysis - Growth Trends & Forecasts (2024 - 2029) Source: https://www.mordorintelligence.com/industry-reports/mental-health-apps. Hyderabad: Mordor Intelligence.
+<sup>26</sup>Mordor Intelligence. (2024). Mental Health Apps Market Size & Share Analysis - Growth Trends & Forecasts (2024 - 2029) Source: https://www.mordorintelligence.com/industry-reports/mental-health-apps. Hyderabad: Mordor Intelligence.
 
   
-Wylie, L. (2024, March 26). Wellness App Revenue and Usage Statistics (2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/wellness-app-market/
+<sup>27</sup>Wylie, L. (2024, March 26). Wellness App Revenue and Usage Statistics (2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/wellness-app-market/
 
   
-Wylie, L. (2024, March 26). Wellness App Revenue and Usage Statistics (2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/wellness-app-market/
+<sup>28</sup>Wylie, L. (2024, March 26). Wellness App Revenue and Usage Statistics (2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/wellness-app-market/
 
   
-Wylie, L. (2024, March 26). Wellness App Revenue and Usage Statistics (2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/wellness-app-market/
+<sup>29</sup>Wylie, L. (2024, March 26). Wellness App Revenue and Usage Statistics (2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/wellness-app-market/
 
   
-Ceci, L. (2024). Downloads of Headspace mobile app worldwide from 1st quarter of 2018 to 4th quarter 2023. New York: Statista.
+<sup>30</sup>Ceci, L. (2024). Downloads of Headspace mobile app worldwide from 1st quarter of 2018 to 4th quarter 2023. New York: Statista.
 
   
-Ceci, L. (2024). Downloads of Calm mobile app worldwide from 1st quarter of 2018 to 4th quarter 2023. New York: Statista.
+<sup>31</sup>Ceci, L. (2024). Downloads of Calm mobile app worldwide from 1st quarter of 2018 to 4th quarter 2023. New York: Statista.
 
   
-Ransbotham, S. (2022, March 22). AI in Your Living Room: Peloton’s Sanjay Nichani. Retrieved from MIT Sloan Management Review: https://sloanreview.mit.edu/audio/ai-in-your-living-room-pelotons-sanjay-nichani/
+<sup>32</sup>Ransbotham, S. (2022, March 22). AI in Your Living Room: Peloton’s Sanjay Nichani. Retrieved from MIT Sloan Management Review: https://sloanreview.mit.edu/audio/ai-in-your-living-room-pelotons-sanjay-nichani/
 
   
-Mughees, N. (2020, July 02). Types of wearable sensors. Retrieved from Electronics 360: Types of wearable sensors | Electronics360 (globalspec.com)
+<sup>33</sup>Mughees, N. (2020, July 02). Types of wearable sensors. Retrieved from Electronics 360: Types of wearable sensors | Electronics360 (globalspec.com)
 
   
-Delgado-Santos, P., Guest, R. T., Deravi, F., & Vera-Rodriguez, R. (2022, June 03). Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition. arXivLabs, pp. 1-12.
+<sup>34</sup>Delgado-Santos, P., Guest, R. T., Deravi, F., & Vera-Rodriguez, R. (2022, June 03). Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition. arXivLabs, pp. 1-12.
 
   
-Salturk, S., & Kahraman, N. (2024, April 15). Deep learning-powered multimodal biometric authentication: integrating dynamic signatures and facial data for enhanced online security. Neural Computing and Applications, pp. 1-12.
+<sup>35</sup>Salturk, S., & Kahraman, N. (2024, April 15). Deep learning-powered multimodal biometric authentication: integrating dynamic signatures and facial data for enhanced online security. Neural Computing and Applications, pp. 1-12.
 
   
-Nvidia. (n.d.). Computer Vision - What is it and Why does it Matter? Retrieved from Nvidia: Computer vision – What Is It and Why Does It Matter? (nvidia.com)
+<sup>36</sup>Nvidia. (n.d.). Computer Vision - What is it and Why does it Matter? Retrieved from Nvidia: Computer vision – What Is It and Why Does It Matter? (nvidia.com)
 
 
 
