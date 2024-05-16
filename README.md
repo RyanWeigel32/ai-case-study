@@ -12,15 +12,18 @@ Headspace
 
 **Who are the founders of the company?**
 
-Andy Puddicombe and Rich Pierson 
+Andy Puddicombe and Rich Pierson<sup>2</sup>
+
 
 **How did the idea for the company (or project) come about?**
 
- It came about after the two founders crossed paths in London. Richard Pierson built a successful career in marketing and advertising at a young age (27) but was beginning to feel burnt out. This led to his explorations into the practices of meditation. It was here he met Andy Puddicombe, a man before beset by personal tragedies that prompted him to travel to Asia and become a Buddhist Monk. Andy, wishing to spread the practices of meditation to laymen, decided to then leave his position as a Buddhist monk, return to London and set up a meditation clinic. The meeting and ensuing friendship between the two men, centered around meditation, proved to be the foundation out of which the idea of Headspace grew. 
+ It came about after the two founders crossed paths in London. Richard Pierson built a successful career in marketing and advertising at a young age (27) but was beginning to feel burnt out. This led to his explorations into the practices of meditation. It was here he met Andy Puddicombe, a man before beset by personal tragedies that prompted him to travel to Asia and become a Buddhist Monk. Andy, wishing to spread the practices of meditation to laymen, decided to then leave his position as a Buddhist monk, return to London and set up a meditation clinic. The meeting and ensuing friendship between the two men, centered around meditation, proved to be the foundation out of which the idea of Headspace grew.<sup>3</sup>
+
 
 **How is the company funded?**
 
- Headspace is funded by an agglomeration of different businesses. Investment Firms, Growth Equity Firms, Lending Firms, Incorporated Companies, and Venture Capital, to name a few. The company has raised $322.11M over 13 rounds of investments from 24 different investors with the latest round occurring on March 6th, 2024. 
+ Headspace is funded by an agglomeration of different businesses. Investment Firms, Growth Equity Firms, Lending Firms, Incorporated Companies, and Venture Capital, to name a few. The company has raised $322.11M over 13 rounds of investments from 24 different investors with the latest round occurring on March 6th, 2024.<sup>4</sup>
+
 
 ---
 
@@ -33,8 +36,11 @@ Andy Puddicombe and Rich Pierson
 
 **Who is the companies intended customer? Is there any information about the market size of this set of customers?**
 
- Headspace’s intended customer base is anyone seeking accessible mental health support regardless of what demographic they fall into. 
- There were 311 million health app users in 2023, and within the mental health app market, its estimated market size was set at $6.2 billion (US).  
+ Headspace’s intended customer base is anyone seeking accessible mental health support regardless of what demographic they fall into.<sup>5</sup>
+
+ There were 311 million health app users in 2023, and within the mental health app market, its estimated market size was set at $6.2 billion (US).<sup>6</sup><sup>7</sup>
+
+
 
 **What solution does this company offer that their competitors do not or cannot offer?**
 
