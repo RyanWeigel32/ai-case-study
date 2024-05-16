@@ -149,7 +149,7 @@ Headspace generated in 2023 $195 million in revenue, trailing behind Calm which 
 
 
 
-(![<alt text>](<https://infogram.com/wellness-revenue-by-app-1h7j4dv8wv73v4n>))
+(![<alt text>](<<div class="infogram-embed" data-id="721a82fb-61a1-4cca-8063-98257ca24681" data-type="interactive" data-title="Wellness revenue by app"></div><script>!function(e,n,i,s){var d="InfogramEmbeds";var o=e.getElementsByTagName(n)[0];if(window[d]&&window[d].initialized)window[d].process&&window[d].process();else if(!e.getElementById(i)){var r=e.createElement(n);r.async=1,r.id=i,r.src=s,o.parentNode.insertBefore(r,o)}}(document,"script","infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>>))
 
 
 
