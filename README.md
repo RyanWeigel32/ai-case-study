@@ -159,6 +159,13 @@ Headspace generated in 2023 $195 million in revenue, trailing behind Calm which 
 In 2023, Headspace held 21% of the overall Wellness App market, trailing behind Calm which held 34%. Fabulous held the third most, with 10% of the market.<sup>28</sup>
 
 
+
+![alt text](image-1.png)
+
+
+
+
+
 **Downloads:**
 
 In 2023, Headspace was downloaded 5.4 million times.<sup>29</sup>
