@@ -173,7 +173,7 @@ The market for wearable devices and apps that track biometric data has grown con
 ## References
 
 
-[^1] Mindfulness and Meditation for the Masses. (2024, January 17). Retrieved from Startupsavant.com: - Headspace — Mindfulness and Meditation for the Masses (startupsavant.com)
+<sup>1</sup> Mindfulness and Meditation for the Masses. (2024, January 17). Retrieved from Startupsavant.com: - Headspace — Mindfulness and Meditation for the Masses (startupsavant.com)
 
   
 Mindfulness and Meditation for the Masses. (2024, January 17). Retrieved from Startupsavant.com: - Headspace — Mindfulness and Meditation for the Masses (startupsavant.com)
