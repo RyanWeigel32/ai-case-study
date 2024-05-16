@@ -5,10 +5,6 @@
 
 Headspace
 
-
-HELLO MY NAME IS RYAN! 
-
-
 **When was the company incorporated?**
 
  2010<sup>1</sup>
