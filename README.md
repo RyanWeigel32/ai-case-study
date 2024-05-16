@@ -149,7 +149,7 @@ Headspace generated in 2023 $195 million in revenue, trailing behind Calm which 
 
 
 
-(![<alt text>](<"C:\Users\ryanw\Documents\AI_Case_Study\ai-case-study\Images\Screenshot 2024-05-16 170431.png">))
+![alt text](image.png)
 
 
 
