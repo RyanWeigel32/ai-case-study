@@ -122,9 +122,6 @@ Worldwide, individuals are investing in sleep-monitoring devices and application
 Increased market competition has led companies in this sector to invest more money into acquiring AI-driven companies as a means of finding the most effective way to offer their mindfulness products that are tailored to the individual user. This sector has also seen acquisitions and mergers with companies in the general mental wellness market, expanding their product offerings to include digital care coordination, condition management, and sleep tracking. This market has a CAGR of 15.2% when forecasted from 2024 to 2031.<sup>22</sup>`<sup>23</sup>
 
 
-
----
-
 **What are the other major companies in this field?**
 
 It is very difficult to place Headspace within a strictly delineated market as “mental health and wellness companies are considering how to play across the health and wellness categories and channels.”<sup>24</sup>The market is highly fragmented<sup>25</sup>and no single company is predominant amongst its competitors. Evidenced by the relatively recent expansions of Headspace into the virtual healthcare field with its merging with Ginger.io in 2021 and its acquisition of Sayana in 2022, Headspace Health is indeed attempting to blur those lines. Yet, its core competency is still prevalent, that being an app that offers a robust catalogue of mindfulness meditations courses. Its direct competitors<sup>26</sup>within the field of this core competency are: 
@@ -135,6 +132,22 @@ It is very difficult to place Headspace within a strictly delineated market as �
 -	**Pokémon Sleep** 
 -	**Meditopia**
 
+---
+
+## Results
+
+**What has been the business impact of this company so far?**
+
+Headspace is currently partnered with 10 well-known companies across a wide-spectrum of industries, such as Amazon, Google, Nike,and the NBA. Included as well in these partnerships is 11 different airlines. Whether it be "original meditation content in Nike fitness apps", "helping passengers find some calm and quiet at 30,000 feet", or courses "designed to train an athlete's mind for competition", Headspace products are operating in disparate areas of life, impacting the well-being and health of many people in a positive way.<sup>27</sup>
+
+In regards to the personal impact made on Headspace user's, a large body of peer-reviewed research proves that Headspace is effective. 
+- **22% improvement in mind-wandering**<sup>28</sup>
+- **29% decrease in depression symptoms after 8 weeks of Headspace**<sup>28</sup>
+- **19% decrease in anxiety symptoms after 8 weeks of Headspace**<sup>28</sup>
+- **70% of [Headspace Health] members experience improvements in depression after using Headspace Care**<sup>28</sup>
+- **17% Reduction in outpatient costs after using Headspace Care**<sup>28</sup>
+
+
 
 **What are some of the core metrics that companies in this field use to measure success?**
 
@@ -143,9 +156,11 @@ It is very difficult to place Headspace within a strictly delineated market as �
 -	**Downloads (*2023*)**
 
 
+**How is your company performing relative to to other competitors in the same field?**
+
 **Revenue:**
 
-Headspace generated in 2023 $195 million in revenue, trailing behind Calm which pulled in $300 million in the same year. Pokémon Sleep generated the third most, with $60 million.<sup>27</sup>
+Headspace generated in 2023 $195 million in revenue, trailing behind Calm which pulled in $300 million in the same year. Pokémon Sleep generated the third most, with $60 million.<sup>29</sup>
 
 
 
@@ -156,7 +171,7 @@ Headspace generated in 2023 $195 million in revenue, trailing behind Calm which 
 
  **Market Share:**
 
-In 2023, Headspace held 21% of the overall Wellness App market, trailing behind Calm which held 34%. Fabulous held the third most, with 10% of the market.<sup>28</sup>
+In 2023, Headspace held 21% of the overall Wellness App market, trailing behind Calm which held 34%. Fabulous held the third most, with 10% of the market.<sup>30</sup>
 
 
 
@@ -168,9 +183,9 @@ In 2023, Headspace held 21% of the overall Wellness App market, trailing behind 
 
 **Downloads:**
 
-In 2023, Headspace was downloaded 5.4 million times.<sup>29</sup>
+In 2023, Headspace was downloaded 5.4 million times.<sup>31</sup>
 
-In comparison, Calm was downloaded 10.02 million times in 2023, close to double the amount of Headspace.<sup>30</sup>
+In comparison, Calm was downloaded 10.02 million times in 2023, close to double the amount of Headspace.<sup>32</sup>
 
 
 ---
@@ -180,7 +195,7 @@ In comparison, Calm was downloaded 10.02 million times in 2023, close to double 
 
 **What products or services would you suggest they offer?**
 
-One area within wellness that has grown considerably over the last few decades is the practice of Yoga. Headspace offers within its catalogue yoga practices that complement and deepen the practice of mindfulness by the addition of specific physical movements and observations of the breathe. Yet, the difficulty in the practice of yoga, especially as a beginner, is being able not only to do the movements as they are intended, but to be able to breathe in a certain style throughout the practice. By offering something similar to the Peloton Guide, which uses computer vision to track movement<sup>31</sup>, and incorporating the usage of third party wearable devices such as an Apple Watch that track biometrics, real-time data pertaining to the movement of the individual can be collected and shown in a side by side with the instructional video, allowing the individual to make adjustments during their practice seamlessly. The wearable sensor may also collect biofeedback data that alerts the practitioner when their breathe is out of sync, allowing them to bring themselves consciously back to the rhythm of their breathe, which is a key component in both the practice of yoga and mindfulness meditation. 
+One area within wellness that has grown considerably over the last few decades is the practice of Yoga. Headspace offers within its catalogue yoga practices that complement and deepen the practice of mindfulness by the addition of specific physical movements and observations of the breathe. Yet, the difficulty in the practice of yoga, especially as a beginner, is being able not only to do the movements as they are intended, but to be able to breathe in a certain style throughout the practice. By offering something similar to the Peloton Guide, which uses computer vision to track movement<sup>33</sup>, and incorporating the usage of third party wearable devices such as an Apple Watch that track biometrics, real-time data pertaining to the movement of the individual can be collected and shown in a side by side with the instructional video, allowing the individual to make adjustments during their practice seamlessly. The wearable sensor may also collect biofeedback data that alerts the practitioner when their breathe is out of sync, allowing them to bring themselves consciously back to the rhythm of their breathe, which is a key component in both the practice of yoga and mindfulness meditation. 
 
 **Why do you think that offering this product or service would benefit the company?**
 
@@ -196,18 +211,18 @@ The market for wearable devices and apps that track biometric data has grown con
 
 **Why are these technologies appropriate for your solution?**
 
-**Heart Rate Sensors** – The use of a sensor that utilizes Photoplethysmography by emitting a light against the skin to track blood flow changes that determine a user’s pulse. This is available on many wearable sensor products and can be integrated into the Headspace software to determine whether a signal should be sent to the user to deepen their inhale and exhale while breathing.<sup>32</sup>
+**Heart Rate Sensors** – The use of a sensor that utilizes Photoplethysmography by emitting a light against the skin to track blood flow changes that determine a user’s pulse. This is available on many wearable sensor products and can be integrated into the Headspace software to determine whether a signal should be sent to the user to deepen their inhale and exhale while breathing.<sup>34</sup>
   
 
 **Machine Learning and AI Technologies**
 
-**Transformers** – Transformers have been used to make recognition predictions based on gait patterns with success. The integration of transformers into computer vision would potentially increase the accuracy of detecting a user’s movements and providing too a more accurate live comparison with the technique of the online expert when engaging in physical exercise.<sup>33</sup>
+**Transformers** – Transformers have been used to make recognition predictions based on gait patterns with success. The integration of transformers into computer vision would potentially increase the accuracy of detecting a user’s movements and providing too a more accurate live comparison with the technique of the online expert when engaging in physical exercise.<sup>35</sup>
 
 
-**LSTM Networks** – The ability to retain information for long periods is important when it comes to making accurate predictions. For Headspace, they would want their machine learning algorithms to accurately predict the movements of an individual so that that individual both in real time and after the session can see themselves how well they are doing or did in comparison to their instructor. The accumulation of biometric data pertaining to the individual user, built up over time, would help the algorithm, by supplying additive layers of information that could be cross-referenced for movement patterns that are peculiar to that individual. Even if the user is new, a databank of movement pattern information, whether from outside data sources or accumulated from within, would allow for a general level of accuracy even in the beginning, but over time, the accumulation of movement data within the app, and retained via a LSTM network, would lead to even greater accuracy of movement predictions.<sup>34</sup>
+**LSTM Networks** – The ability to retain information for long periods is important when it comes to making accurate predictions. For Headspace, they would want their machine learning algorithms to accurately predict the movements of an individual so that that individual both in real time and after the session can see themselves how well they are doing or did in comparison to their instructor. The accumulation of biometric data pertaining to the individual user, built up over time, would help the algorithm, by supplying additive layers of information that could be cross-referenced for movement patterns that are peculiar to that individual. Even if the user is new, a databank of movement pattern information, whether from outside data sources or accumulated from within, would allow for a general level of accuracy even in the beginning, but over time, the accumulation of movement data within the app, and retained via a LSTM network, would lead to even greater accuracy of movement predictions.<sup>36</sup>
  
 
-**Computer Vision and CNNs** – The use of convolutional neural networks that filter inputs (images) captured by a video camera would be necessary if the individual doing the exercises is to see how accurate their physical movements are against that of the instructor.<sup>35</sup>
+**Computer Vision and CNNs** – The use of convolutional neural networks that filter inputs (images) captured by a video camera would be necessary if the individual doing the exercises is to see how accurate their physical movements are against that of the instructor.<sup>37</sup>
 
 
 ---
@@ -294,32 +309,40 @@ The market for wearable devices and apps that track biometric data has grown con
   
 <sup>26</sup>Wylie, L. (2024, March 26). Wellness App Revenue and Usage Statistics (2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/wellness-app-market/
 
-  
-<sup>27</sup>Wylie, L. (2024, March 26). Wellness App Revenue and Usage Statistics (2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/wellness-app-market/
+
+<sup>27</sup>Headspace. (2024). Our Partner. Retrieved from Headspace: https://www.headspace.com/partners
+
+
+<sup>28</sup>Headspace. (2024). Mental Healthcare that delivers results. Retrieved from Headspace: https://organizations.headspace.com/evidence
+
+
+<sup>29</sup>Wylie, L. (2024, March 26). Wellness App Revenue and Usage Statistics (2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/wellness-app-market/
 
   
-<sup>28</sup>Wylie, L. (2024, March 26). Wellness App Revenue and Usage Statistics (2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/wellness-app-market/
+<sup>30</sup>Wylie, L. (2024, March 26). Wellness App Revenue and Usage Statistics (2024). Retrieved from Business of Apps: https://www.businessofapps.com/data/wellness-app-market/
 
   
-<sup>29</sup>Ceci, L. (2024). Downloads of Headspace mobile app worldwide from 1st quarter of 2018 to 4th quarter 2023. New York: Statista.
+<sup>31</sup>Ceci, L. (2024). Downloads of Headspace mobile app worldwide from 1st quarter of 2018 to 4th quarter 2023. New York: Statista.
 
   
-<sup>30</sup>Ceci, L. (2024). Downloads of Calm mobile app worldwide from 1st quarter of 2018 to 4th quarter 2023. New York: Statista.
+<sup>32</sup>Ceci, L. (2024). Downloads of Calm mobile app worldwide from 1st quarter of 2018 to 4th quarter 2023. New York: Statista.
 
   
-<sup>31</sup>Ransbotham, S. (2022, March 22). AI in Your Living Room: Peloton’s Sanjay Nichani. Retrieved from MIT Sloan Management Review: https://sloanreview.mit.edu/audio/ai-in-your-living-room-pelotons-sanjay-nichani/
+<sup>33</sup>Ransbotham, S. (2022, March 22). AI in Your Living Room: Peloton’s Sanjay Nichani. Retrieved from MIT Sloan Management Review: https://sloanreview.mit.edu/audio/ai-in-your-living-room-pelotons-sanjay-nichani/
 
   
-<sup>32</sup>Mughees, N. (2020, July 02). Types of wearable sensors. Retrieved from Electronics 360: Types of wearable sensors | Electronics360 (globalspec.com)
+<sup>34</sup>Mughees, N. (2020, July 02). Types of wearable sensors. Retrieved from Electronics 360: Types of wearable sensors | Electronics360 (globalspec.com)
 
   
-<sup>33</sup>Delgado-Santos, P., Guest, R. T., Deravi, F., & Vera-Rodriguez, R. (2022, June 03). Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition. arXivLabs, pp. 1-12.
+<sup>35</sup>Delgado-Santos, P., Guest, R. T., Deravi, F., & Vera-Rodriguez, R. (2022, June 03). Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition. arXivLabs, pp. 1-12.
 
   
-<sup>34</sup>Salturk, S., & Kahraman, N. (2024, April 15). Deep learning-powered multimodal biometric authentication: integrating dynamic signatures and facial data for enhanced online security. Neural Computing and Applications, pp. 1-12.
+<sup>36</sup>Salturk, S., & Kahraman, N. (2024, April 15). Deep learning-powered multimodal biometric authentication: integrating dynamic signatures and facial data for enhanced online security. Neural Computing and Applications, pp. 1-12.
 
   
-<sup>35</sup>Nvidia. (n.d.). Computer Vision - What is it and Why does it Matter? Retrieved from Nvidia: Computer vision – What Is It and Why Does It Matter? (nvidia.com)
+<sup>37</sup>Nvidia. (n.d.). Computer Vision - What is it and Why does it Matter? Retrieved from Nvidia: Computer vision – What Is It and Why Does It Matter? (nvidia.com)
+
+
 
 
 
