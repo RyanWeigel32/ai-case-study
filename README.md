@@ -44,9 +44,10 @@ Andy Puddicombe and Rich Pierson<sup>2</sup>
 
 **What solution does this company offer that their competitors do not or cannot offer?**
 
- The largest competitor for Headspace in the mental health and mindfulness app market is Calm, with both having 55% of the market share.  While both are well-known for offering a library of guided mediation courses, Headspace has branched out more into the general mental health field with two important acquisitions and one merger. The first acquisition was the company Sayana, a “self care app that leverages chat-based sessions with an AI persona…who encourages users to track their mood along with what influences it.” This app “personalizes user’s experiences based on their check-ins and mood trends surfacing high quality content and self-care exercises” based on a handful of different therapeutic approaches. To quote Headspace Health CEO Russel Glass, 
+ The largest competitor for Headspace in the mental health and mindfulness app market is Calm, with both having 55% of the market share.<sup>8</sup> While both are well-known for offering a library of guided mediation courses, Headspace has branched out more into the general mental health field with two important acquisitions and one merger. The first acquisition was the company Sayana, a “self care app that leverages chat-based sessions with an AI persona…who encourages users to track their mood along with what influences it.” This app “personalizes user’s experiences based on their check-ins and mood trends surfacing high quality content and self-care exercises” based on a handful of different therapeutic approaches. To quote Headspace Health CEO Russel Glass, 
 
-> “Amidst a rapidly growing landscape of mental health and wellness apps, Sayana has developed a uniquely engaging member experience backed by world-class AI and machine learning algorithms.”  
+> “Amidst a rapidly growing landscape of mental health and wellness apps, Sayana has developed a uniquely engaging member experience backed by world-class AI and machine learning algorithms.”<sup>9</sup>
+  
 
  The second acquisition was Alpine.AI, a company in the digital assistant market. Headspace Health’s plan is to leverage “Alpine’s machine learning capabilities” “to give people an interactive voice-based way to discover different meditation sessions…and to use those interactions to make better suggestions to individual users.” 
 
