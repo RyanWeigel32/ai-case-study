@@ -7,7 +7,8 @@ Headspace
 
 **When was the company incorporated?**
 
- 2010[^1] 
+ 2010<sup>1</sup>
+
 
 **Who are the founders of the company?**
 
