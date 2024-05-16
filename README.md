@@ -17,12 +17,12 @@ Andy Puddicombe and Rich Pierson<sup>2</sup>
 
 **How did the idea for the company (or project) come about?**
 
- It came about after the two founders crossed paths in London. Richard Pierson built a successful career in marketing and advertising at a young age (27) but was beginning to feel burnt out. This led to his explorations into the practices of meditation. It was here he met Andy Puddicombe, a man before beset by personal tragedies that prompted him to travel to Asia and become a Buddhist Monk. Andy, wishing to spread the practices of meditation to laymen, decided to then leave his position as a Buddhist monk, return to London and set up a meditation clinic. The meeting and ensuing friendship between the two men, centered around meditation, proved to be the foundation out of which the idea of Headspace grew.<sup>3</sup>
+ It came about after the two founders crossed paths in London. Richard Pierson built a successful career in marketing and advertising at a young age (27) but was beginning to feel burnt out. This led to his explorations into the practices of meditation. It was here he met Andy Puddicombe, a man before beset by personal tragedies that prompted him to travel to Asia and become a Buddhist monk. Andy, wishing to spread the practices of meditation to laymen, decided to then leave his position as a Buddhist monk, return to London and set up a meditation clinic. The meeting and ensuing friendship between the two men, centered around meditation, proved to be the foundation out of which the idea of Headspace grew.<sup>3</sup>
 
 
 **How is the company funded?**
 
- Headspace is funded by an agglomeration of different businesses. Investment Firms, Growth Equity Firms, Lending Firms, Incorporated Companies, and Venture Capital, to name a few. The company has raised $322.11M over 13 rounds of investments from 24 different investors with the latest round occurring on March 6th, 2024.<sup>4</sup>
+ Headspace is funded by an assortment of different businesses. Investment Firms, Growth Equity Firms, Lending Firms, Incorporated Companies, and Venture Capital, to name a few. The company has raised $322.11M over 13 rounds of investments from 24 different investors with the latest round occurring on March 6th, 2024.<sup>4</sup>
 
 
 ---
@@ -32,7 +32,7 @@ Andy Puddicombe and Rich Pierson<sup>2</sup>
 
 **What specific problem is the company or project trying to solve?**
 
- The general problem that Headspace is attempting to address through its services is mental health difficulties that are prevalent within our present world. Although the main activity of Headspace is the offering of guided meditation courses for a myriad of different life situations and experiences, it has also entered the broader mental health market by the acquisitions of such companies as Ginger, Sayana, and Shine. 
+ The general problem that Headspace is attempting to address through its services is mental health difficulties that are prevalent within our present world. Although the main product/service  Headspace offers is guided meditation courses for different life situations and experiences, it has also entered the broader mental health market by acquiring/merging-with such companies as Ginger, Sayana, and Shine. 
 
 **Who is the companies intended customer? Is there any information about the market size of this set of customers?**
 
@@ -44,7 +44,7 @@ Andy Puddicombe and Rich Pierson<sup>2</sup>
 
 **What solution does this company offer that their competitors do not or cannot offer?**
 
- The largest competitor for Headspace in the mental health and mindfulness app market is Calm, with both having 55% of the market share.<sup>8</sup> While both are well-known for offering a library of guided mediation courses, Headspace has branched out more into the general mental health field with two important acquisitions and one merger. The first acquisition was the company Sayana, a “self care app that leverages chat-based sessions with an AI persona…who encourages users to track their mood along with what influences it.” This app “personalizes user’s experiences based on their check-ins and mood trends surfacing high quality content and self-care exercises” based on a handful of different therapeutic approaches. To quote Headspace Health CEO Russel Glass, 
+ The largest competitor for Headspace in the mental health and mindfulness app market is Calm, both having combined 55% of the market share.<sup>8</sup> While both are well-known for offering a library of guided mediation courses, Headspace has branched out more into the general mental health field with two important acquisitions and one merger. The first acquisition was the company Sayana, a “self care app that leverages chat-based sessions with an AI persona…who encourages users to track their mood along with what influences it.” This app “personalizes user’s experiences based on their check-ins and mood trends surfacing high quality content and self-care exercises” based on a handful of different therapeutic approaches. To quote Headspace Health CEO Russel Glass, 
 
 > “Amidst a rapidly growing landscape of mental health and wellness apps, Sayana has developed a uniquely engaging member experience backed by world-class AI and machine learning algorithms.”<sup>9</sup>
   
@@ -52,10 +52,10 @@ Andy Puddicombe and Rich Pierson<sup>2</sup>
  The second acquisition was Alpine.AI, a company in the digital assistant market. Headspace Health’s plan is to leverage “Alpine’s machine learning capabilities” “to give people an interactive voice-based way to discover different meditation sessions…and to use those interactions to make better suggestions to individual users.”<sup>10</sup>
 
 
- Headspace also merged with ([<Ginger.io>](<https://d3.harvard.edu/platform-digit/submission/ginger-io-an-app-that-monitors-your-mental-health/>)) to create Headspace Health.  Ginger.io, when standalone, was a “mobile app that enables users to chat with professional coaches and therapists.” Ginger.io did so by tracking through the app data pertaining to the behaviors of the user, and by building statistical patterns based on this received data through the use of machine learning and AI, the app would be able to find deviations from normal patterns of behavior and send messages to the user, as well as alert the coach or therapist to check in and intervene.<sup>11</sup>
+ Headspace also merged with ([<Ginger.io>](<https://d3.harvard.edu/platform-digit/submission/ginger-io-an-app-that-monitors-your-mental-health/>)) to create Headspace Health.  Ginger.io, when standalone, was a “mobile app that enable[d] users to chat with professional coaches and therapists.” Ginger.io did so by tracking through the app data pertaining to the behaviors of the user, and by building statistical patterns based on this received data through the use of machine learning and AI, the app would be able to find deviations from normal patterns of behavior and send messages to the user, as well as alert the coach or therapist to check in and intervene.<sup>11</sup>
 
  
- With these two acquisitions, and one merger, Headspace (now Headspace Health) has expanded its customer base beyond those who are seeking only an entry into the practice of mindfulness, and into a market for individuals searching for a more diverse array of potential solutions for mental health difficulties. By offering up different mental health practices, utilizing the power of machine learning to tailor products and courses that meet the specific need of the individual, while also retaining adjacent to these services its core business in helping individuals learn mindfulness meditation, it has the advantage of attracting individuals who are on the fence about their core business, but are looking for solutions and practices that help in addressing their very real mental health difficulties.<sup>12</sup>
+ With these two acquisitions, and one merger, Headspace (now Headspace Health) expanded its customer base beyond those who are seeking only an entry into the practice of mindfulness, and into a market for individuals searching for a more diverse array of solutions for mental health difficulties. By offering up different mental health practices, utilizing the power of machine learning to tailor products and courses that meet the specific need of the individual, and also retaining adjacent to these services its core business in helping individuals learn mindfulness meditation, it has the advantage of attracting individuals who are on the fence about their core business, but are looking for solutions and practices that help in addressing their very real mental health difficulties.<sup>12</sup>
 
 
 ---
@@ -67,9 +67,9 @@ Andy Puddicombe and Rich Pierson<sup>2</sup>
 **Amazon Kinesis Data Stream** – “The user generates events by performing actions inside the app, and these events are forwarded to Kinesis to be processed by **Spark Structured Streaming**, another Amazon service that helps process large amounts of data. 
 **Spark Structured Streaming** uses micro-batching to break up the stream of events into discrete chunks, processing incoming events in small micro-batch dataframes. 
 
-Spark Structured Streaming processes this data and feeds into ML models developed using **Databricks** notebooks and evaluated with MLflow experiments offline. 
+Spark Structured Streaming processes this data and feeds it into ML models developed using **Databricks** notebooks and evaluated with MLflow experiments offline. 
 
-Once the model has been created, a Github release is created, picked up by the **Circle CI** CI/CD tools that test and build MLflow model images.
+Once the model has been created, a Github release is created, picked up by the CI/CD tools developed by **Circle CI**  that test and build MLflow model images.
 
 This is pushed to **Amazon’s AWS ECR**, a container registry, and then deployed onto **Amazon’s Sagemaker**, an integrated development environment that gives developers the ability to build, train, and deploy ML models at scale. 
 
@@ -89,7 +89,7 @@ Headspace operates within the mental health and wellness field.<sup>14</sup>
 
 **What have been the major trends and innovations over the last 5-10 years?**
 
-The field of mental health and wellness has expanded to encompass six different categories:**Better Health, Better Fitness, Better Nutrition, Better Appearance, Better Sleep, and Better Mindfulness**. Headspace falls into three of these categories, based on their original core competency, and those acquired through their acquisitions, those field being Better Health, Better Sleep, and Better Mindfulness.<sup>15</sup>
+The field of mental health and wellness has expanded to encompass six different categories:**Better Health, Better Fitness, Better Nutrition, Better Appearance, Better Sleep, and Better Mindfulness**. Headspace falls into three of these categories, based on their original core competency, and those acquired through their acquisitions, those field being Better Health, Better Sleep, and Better Mindfulness.<sup>15</sup> *Better Appearance has been excluded from the selections below.*
 
 
 **Better Health**
@@ -99,14 +99,14 @@ In this “traditional category” for wellness, the field of Better Health has 
 
 **Better Fitness**
 
-In this subfield, a rise in companies offering robust and accessible forms of exercise such as Peloton, Mirror, and Tonal, occurred during the COVID-19 pandemic. Peloton, for instance, developed Peloton Guide, an AI-enabled device that tracks the exerciser’s movements, compares the movements of the user with that shown by the instructor, allowing them adjust their movements to be more in line with the instructor, as well as showing the user what muscle groups have been exercised or not to make sure the user is gaining a well rounded training experience.<sup>17</sup>`<sup>18</sup>
+In this subfield, a rise in companies offering robust and accessible forms of at-home exercise such as Peloton, Mirror, and Tonal, occurred during the COVID-19 pandemic. Peloton, for instance, developed Peloton Guide, an AI-enabled device that tracks the exerciser’s movements, compares the movements of the user with that shown by the instructor, allowing them adjust their movements to be more in line with the instructor. It also shows the user what muscle groups have been exercised or not to make sure the user is achieving a well rounded training experience.<sup>17</sup>`<sup>18</sup>
 
   
 
 
 **Better Nutrition** 
 
-The nutritional subfield gained momentum during COVID-19 with the rise of global meal kit delivery services such as Blue Apron and Hello Fresh. The Nutrition app market, with companies like MyFitnessPal and MyNetDiary, have a CAGR of 17.2%, as individuals are becoming more health conscious due to rising obesity and heart disease rates among the population.<sup>19</sup>`<sup>20</sup>
+The nutritional subfield gained momentum during COVID-19 with the rise of global meal kit delivery services such as Blue Apron and Hello Fresh. The Nutrition app market, with companies like MyFitnessPal and MyNetDiary, have a CAGR of 17.2%, fueled by individuals becoming more health conscious towards rising obesity and heart disease rates among the population.<sup>19</sup>`<sup>20</sup>
 
 
 
@@ -124,7 +124,7 @@ Increased market competition has led companies in this sector to invest more mon
 
 **What are the other major companies in this field?**
 
-It is very difficult to place Headspace within a strictly delineated market as “mental health and wellness companies are considering how to play across the health and wellness categories and channels.”<sup>24</sup>The market is highly fragmented<sup>25</sup>and no single company is predominant amongst its competitors. Evidenced by the relatively recent expansions of Headspace into the virtual healthcare field with its merging with Ginger.io in 2021 and its acquisition of Sayana in 2022, Headspace Health is indeed attempting to blur those lines. Yet, its core competency is still prevalent, that being an app that offers a robust catalogue of mindfulness meditations courses. Its direct competitors<sup>26</sup>within the field of this core competency are: 
+It is very difficult to place Headspace within a strictly delineated market as “mental health and wellness companies are considering how to play across the health and wellness categories and channels.”<sup>24</sup>The market is highly fragmented<sup>25</sup>and no single company is predominant amongst its competitors. Evidenced by the relatively recent expansions of Headspace into the virtual healthcare field with its Ginger.io merger in 2021 and its acquisition of Sayana in 2022, Headspace Health is indeed attempting to blur those lines. Yet, its core competency is still prevalent, that being an app that offers a robust catalogue of mindfulness meditations courses. Its direct competitors<sup>26</sup>within the field of this core competency are: 
 
 -	**Calm**
 -	**Fabulous**
@@ -199,7 +199,7 @@ One area within wellness that has grown considerably over the last few decades i
 
 **Why do you think that offering this product or service would benefit the company?**
 
-The market for wearable devices and apps that track biometric data has grown considerably over the last decade. Companies within the mental health and wellness sector, regardless of their origin, have begun to incorporate this technology into their business. Headspace is already attempting to do so with its merger with Ginger.io and its acquisition of Sayana, both mentioned more in detail in one of the above sections. In the fitness sector, companies such as Peloton have taken advantage of the growing desire from individuals to improve their fitness with the help of expert instructors, without having to spend a significant amount of money to hire one privately. With the recent merger and acquisition trends of Headspace, the company is looking to broaden their product offerings, and in light of the growing research showing the correlation between physical exercise and robust mental health, it would not be too much of a jump to expand their product offerings to include both more fitness oriented classes, as well as the ability to integrate technologies that the consumer is already using *(wearable devices)* or are becoming more available and less expensive *(computer vision-capable video cameras a la Peloton Guide.)* By incorporating the recent technological trends occurring within the fitness industry, specifically the at-home segment of that market, Headspace expands their pool of potential customers, and exposes them to the other products they currently offer, without having to expend a substantial amount of resources moving into markets that share no relationship with their core business. 
+The market for wearable devices and apps that track biometric data has grown considerably over the last decade. Companies within the mental health and wellness sector, regardless of their origin, have begun to incorporate this technology into their business. Headspace is already attempting to do so with its merger with Ginger.io and its acquisition of Sayana, both mentioned more in detail in one of the above sections. In the fitness sector, companies such as Peloton have taken advantage of the growing desire from individuals to improve their fitness with the help of expert instructors, without having to spend a significant amount of money to hire one privately. With the recent merger and acquisition trends of Headspace, the company is looking to broaden their product offerings, and in light of the growing research showing the correlation between physical exercise and robust mental health, it would not be too much of a jump to expand their product offerings to include not onlyfitness oriented classes, but the ability to integrate technologies that the consumer is already using *(wearable devices)* or are becoming more available and less expensive *(computer vision-capable video cameras a la Peloton Guide)* as well. By incorporating the recent technological trends occurring within the fitness industry, specifically the at-home segment of that market, Headspace expands their pool of potential customers, and exposes them to the other products they currently offer, without having to expend a substantial amount of resources moving into markets that share no relationship with their core business. 
 
 ---
 
